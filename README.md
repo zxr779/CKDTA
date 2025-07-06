@@ -1,13 +1,14 @@
-### CKDTA
-# Data
+# CKDTA
+## Data
 
 All data used in this paper are publicly available and can be accessed here:
 
-• Davis and KIBA:[https://zenodo.org/records/10597707](https://zenodo.org/records/10597707) • Filtered Davis: [https://github.com/cansyl/MDeePred](https://github.com/cansyl/MDeePred)
+• Davis and KIBA:[https://zenodo.org/records/10597707](https://zenodo.org/records/10597707) 
+• Filtered Davis: [https://github.com/cansyl/MDeePred](https://github.com/cansyl/MDeePred)
 
 The construction of chemical element knowledge graph refers to [this reference](https://github.com/Fangyinfff/KCL).
 
-# How to train
+## How to train
 
 • Please download the data first, then unzip them, And create a data folder and put them in the data folder. • After deployment, please execute the following command to train the model. • Bash command:
 
